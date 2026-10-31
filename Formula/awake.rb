@@ -1,8 +1,8 @@
 class Awake < Formula
-  desc "Keep your Mac awake with the lid closed and restore its mic on reopen"
+  desc "Keep your Mac awake with optional idle-lock and lid-close prevention"
   homepage "https://github.com/dancumberland/awake"
-  url "https://github.com/dancumberland/awake/archive/refs/tags/v3.0.0.tar.gz"
-  sha256 "630b9550f2cb2d88cdedeaa046faa827d60fa7f9aab8513af9222a5f5dfc13f0"
+  url "https://github.com/dancumberland/awake/archive/refs/tags/v4.0.0.tar.gz"
+  sha256 "6fd54621198a5cc87dab75f18391384e11de6356c491b479520b96e49be890c7"
   license "MIT"
 
   def install
